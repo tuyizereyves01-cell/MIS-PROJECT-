@@ -68,3 +68,5 @@ conclusion
 This project produced Care Link, a responsive hospital appointment system prototype designed in Figma for both mobile and web. Starting from a clear problem – the manual, queue-based booking process used in most hospitals – we identified the target users, built personas, mapped the user flow, produced low-fidelity wireframes, and developed them into fourteen high-fidelity screens connected as a clickable prototype.
 The design allows a patient to see real doctor availability, book a suitable slot themselves, receive automatic reminders, and reschedule or cancel without returning to the hospital, while giving the hospital a permanent and searchable record of every appointment.
 
+
+figma link: https://www.figma.com/design/O4DTvrzR9RNggSU1r8prJ7/mis-project?node-id=171-1406&t=jtNfECRs6Yddtoc1-1
